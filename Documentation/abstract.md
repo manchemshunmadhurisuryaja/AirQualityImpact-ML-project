@@ -1,0 +1,2 @@
+
+This project investigates the impact of air quality on human health by classifying pollution levels using multiple machine learning techniques including Logistic Regression, Support Vector Machines (SVM), Naive Bayes, and an optimized Neural Network. Feature engineering techniques such as Minimum Redundancy Maximum Relevance (MRMR), Chi-Squared, ANOVA, and Kruskal-Wallis Test were applied to improve model performance. Among these, ANOVA demonstrated superior accuracy (98.4%) by effectively selecting impactful features that optimize the neural network's performance.

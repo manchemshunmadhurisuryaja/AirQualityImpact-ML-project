@@ -1,0 +1,3 @@
+# Conclusion
+
+The project demonstrated that combining feature engineering with an optimized Neural Network significantly improves classification of air quality impact on human health. Among feature selection methods tested, ANOVA provided superior results by selecting 15 impactful features that maximize model accuracy and maintain balanced performance metrics. Reducing the number of features below 15 led to significant performance degradation, highlighting the importance of retaining critical variables. These findings reinforce the value of careful feature selection in building robust predictive models for environmental health applications.
