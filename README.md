@@ -48,7 +48,6 @@ Air pollution, with pollutants like NO₂, SO₂, PM2.5, and PM10, poses signifi
 * `Dataset/` – Raw and cleaned data
 * `Results/` – Performance graphs, feature importance plots
 * `Documentation/` – Abstract, implementation, results, conclusion
-* `Presentation/` – Final PPT
 
 ---
 
